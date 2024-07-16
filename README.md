@@ -1,1 +1,3 @@
-# The-company-s-official-website
+# 企业官网模板
+### 本项目为企业官网的模板，主要是前端技术，后端为一点PHP
+### 详细使用链接请看使用文档 https://aiqji.com
